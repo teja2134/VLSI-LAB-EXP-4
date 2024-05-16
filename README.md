@@ -79,7 +79,7 @@ OUTPUT:
 
 # JK FLIPFLOP
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)                      ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/e05a3633-7c3e-4dd0-a844-8e1fbe5d0ca2)
 
 VERILOG CODE:
 
@@ -128,6 +128,8 @@ OUTPUT:
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08)
 
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/e7469832-cf16-4a6c-9820-0abe0a9f0535)
+
 VERILOG CODE:
 
 module tff(clk,reset,t,q);
@@ -170,6 +172,8 @@ OUTPUT:
 # D FLIPFLOP
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/64675a6a-82ee-46c9-8ecd-a909a3736a31)
 
 VERILOG CODE:
 
