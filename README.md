@@ -74,13 +74,13 @@ endmodule
 OUTPUT:
 
 
-   ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/7d971694-c833-4640-b3ae-072ecdda9f08)
+ ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/7d971694-c833-4640-b3ae-072ecdda9f08)
 
 
 # JK FLIPFLOP
 
-    ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ced00f6f0dc7e6)  
-    ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/e05a3633-7c3e-4dd0-a844-8e1fbe5d0ca2)
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ced00f6f0dc7e6)  
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/e05a3633-7c3e-4dd0-a844-8e1fbe5d0ca2)
 
 VERILOG CODE:
 
@@ -167,14 +167,14 @@ endmodule
 
 OUTPUT:
 
-     ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/45c67dad-daab-438d-8521-fcae4ab7715f)
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/45c67dad-daab-438d-8521-fcae4ab7715f)
 
 
 # D FLIPFLOP
 
-     ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
 
-     ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/64675a6a-82ee-46c9-8ecd-a909a3736a31)
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/64675a6a-82ee-46c9-8ecd-a909a3736a31)
 
 VERILOG CODE:
 
@@ -202,18 +202,18 @@ endmodule
 
 OUTPUT:
 
-     ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/ebdaa696-2e66-474b-b426-b7b4b5e6d550)
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/ebdaa696-2e66-474b-b426-b7b4b5e6d550)
 
 
 # UPDOWNCOUNTER: 
 
 CIRCUITDIAGRAM: 
 
-     ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/fd0932c4-bc65-424b-a082-788f62c9fc29)
+ ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/fd0932c4-bc65-424b-a082-788f62c9fc29)
 
 TRUTH TABLE:
 
-       ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
 
 VERILOG CODE:
 
@@ -251,7 +251,8 @@ OUTPUT:
 
 CIRCUIT DIAGRAM:
 
-      ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/dd1e30aa-1632-43a7-b222-e6dc763e3fcf)
+ 
+ ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/dd1e30aa-1632-43a7-b222-e6dc763e3fcf)
 
 VERILOG CODE
 
@@ -285,11 +286,10 @@ OUTPUT:
 
 LOGIC DIAGRAM
 
+ ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/f9c1d219-3923-467c-b1fa-ce2627e55035)
 
-     ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/f9c1d219-3923-467c-b1fa-ce2627e55035)
 
-
-     ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/3a2a7efb-8b44-4015-ab32-f59ac52c2142)
+ ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/3a2a7efb-8b44-4015-ab32-f59ac52c2142)
 
 
 VERILOG CODE:
