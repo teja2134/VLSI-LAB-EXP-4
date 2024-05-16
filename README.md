@@ -79,7 +79,9 @@ OUTPUT:
 
 # JK FLIPFLOP
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ced00f6f0dc7e6)  
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)
+
+
 ![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/e05a3633-7c3e-4dd0-a844-8e1fbe5d0ca2)
 
 VERILOG CODE:
