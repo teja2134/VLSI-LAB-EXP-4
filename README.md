@@ -30,29 +30,7 @@ LOGIC DIAGRAM:
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/77fb7f38-5649-4778-a987-8468df9ea3c3)
 
-
-# JK FLIPFLOP
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)
-
-# T FLIPFLOP
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08)
-
-
-# D FLIPFLOP
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
-
-
-# COUNTER
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
-
-
-# VERILOG CODE
-
-# SR FLIPFLOP:
+VERILOG CODE:
 
 module srff(clk,j,k,rst,q );
 
@@ -90,7 +68,17 @@ end
 
 endmodule
 
-# JK FLIPFLOP:
+OUTPUT:
+
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/7d971694-c833-4640-b3ae-072ecdda9f08)
+
+
+# JK FLIPFLOP
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/1510e030-4ddc-42b1-88ce-d00f6f0dc7e6)
+
+VERILOG CODE:
 
 module jkff(clk,j,k,rst,q );
 
@@ -128,7 +116,16 @@ end
 
 endmodule
 
-#  T FLIPFLOP:
+OUTPUT:
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/f45a459a-6a9c-4897-b68f-af15d59e3dc4)
+
+
+# T FLIPFLOP
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/7a020379-efb1-4104-85ee-439d660baa08)
+
+VERILOG CODE:
 
 module tff(clk,reset,t,q);
 
@@ -162,7 +159,16 @@ end
 
 endmodule
 
-# D FLIPFLOP:
+OUTPUT:
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/45c67dad-daab-438d-8521-fcae4ab7715f)
+
+
+# D FLIPFLOP
+
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/dda843c5-f0a0-4b51-93a2-eaa4b7fa8aa0)
+
+VERILOG CODE:
 
 module dff(clk,d,rst,q );
 
@@ -186,7 +192,22 @@ end
 
 endmodule
 
-# UPDOWN COUNTER:
+OUTPUT:
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/ebdaa696-2e66-474b-b426-b7b4b5e6d550)
+
+
+# UPDOWNCOUNTER: 
+
+CIRCUITDIAGRAM: 
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/fd0932c4-bc65-424b-a082-788f62c9fc29)
+
+TRUTH TABLE:
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/eb77495e-3ed7-4291-a8fc-d2e2fd3baeb3)
+
+VERILOG CODE:
 
 module updown(clk,rst,up_down,count);
 
@@ -214,7 +235,17 @@ end
 
 endmodule
 
+OUTPUT:
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/3d77d5df-2f7e-49a9-bed8-4667c2f7b4b5)
+
 # MOD 10 COUNTER:
+
+CIRCUIT DIAGRAM:
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/dd1e30aa-1632-43a7-b222-e6dc763e3fcf)
+
+VERILOG CODE
 
 module mod(clk,rst,count);
 
@@ -238,7 +269,22 @@ end
 
 endmodule
 
+OUTPUT:
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/eb64718d-bba0-4396-98a5-1d4a2a6358c9)
+
 # RIPPLE COUNTER:
+
+LOGIC DIAGRAM
+
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/f9c1d219-3923-467c-b1fa-ce2627e55035)
+
+
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/3a2a7efb-8b44-4015-ab32-f59ac52c2142)
+
+
+VERILOG CODE:
 
 module ripplecounter(clk,rst,q);
 
@@ -294,42 +340,15 @@ end
 
 endmodule
 
-       
-   
+
+OUTPUT:
 
 
-
-# OUTPUT WAVEFORM
-
-# SR flipflop:
-
-<img width="1007" alt="sr" src="https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/e21bd2e2-b69f-424b-9da2-ced2f8da8622">
-
-# JK flipflop:
-
-<img width="1012" alt="jk (2)" src="https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/d989b3ab-a0fb-4bb9-969d-0817eff565eb">
-
-# T flipflop:
-
-<img width="942" alt="tff" src="https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/bf2966e2-f9d8-40cd-ad7d-289702a75078">
+![Uploading image.png…]()
 
 
-# D flipflop:
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
 
-<img width="943" alt="dff" src="https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/c9027cd8-06a8-4647-a4b2-fd48536a5e04">
-
-# Updown counter:
-
-<img width="1089" alt="updown" src="https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/22f1ecee-4349-4d37-bb84-4310ec89e00a">
-
-# Mod 10 counter:
-
-<img width="1017" alt="mod10v" src="https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/56d42f95-1ad0-4396-97f3-5fee5ec0d539">
-
-
-# Ripple counter:
-
-![ripplev](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/f37d8d04-cbc1-44b2-8704-ba28fe340d2f)
 
 
 # RESULT
