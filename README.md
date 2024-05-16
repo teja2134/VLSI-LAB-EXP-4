@@ -1,7 +1,10 @@
-# VLSI-LAB-EXP-4
-SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
+
+# SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
+
+DATE:
 
 # AIM: 
+
  To simulate and synthesis SR, JK, T, D - FLIPFLOPS, COUNTERS design using vivado.
 
 # APPARATUS REQUIRED: 
@@ -205,7 +208,7 @@ CIRCUITDIAGRAM:
 
 TRUTH TABLE:
 
-![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/eb77495e-3ed7-4291-a8fc-d2e2fd3baeb3)
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
 
 VERILOG CODE:
 
@@ -343,13 +346,7 @@ endmodule
 
 OUTPUT:
 
-
-![Uploading image.png…]()
-
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
-
-
+![image](https://github.com/teja2134/VLSI-LAB-EXP-4/assets/161149578/5a9c4cec-5369-474a-b6db-7b20c0dc7510)
 
 # RESULT
 
